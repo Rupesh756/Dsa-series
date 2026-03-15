@@ -8,3 +8,4 @@ So let dive!
 
 14/03/2026:{Solved detection and length of loop in linked list} : <a>https://www.geeksforgeeks.org/problems/find-length-of-loop/1</a>
 removal of loop : <a>https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1</a>
+15/03/2026: <a>https://www.youtube.com/watch?v=RrmDZv1i9W8&list=PLQEaRBV9gAFu9fretbYEBkL0NFWnbfAt-&index=8</a>
